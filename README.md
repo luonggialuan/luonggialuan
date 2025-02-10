@@ -58,7 +58,7 @@
   <a href="https://www.facebook.com/luonggialuan.lugilu" target="blank">
     <img width="80" src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png"  alt="luonggialuan-facebook" />
   </a>
-  <a href="" target="blank">
+  <a href="https://www.linkedin.com/in/luong-luan-14107a31a/" target="blank">
     <img width="80" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png" alt="luonggialuan-linkedin" />
   </a>
   <a href="mailto:luonggialuan742@gmail.com" target="top">
